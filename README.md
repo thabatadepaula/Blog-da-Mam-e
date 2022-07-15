@@ -1,2 +1,2 @@
-# Blog-da-Mam-e
+# BlogDaMamae
 Projeto Blog Pessoal do Bootcamp Generation Brasil
